@@ -1,4 +1,4 @@
-The Matlab-file processing_impact_echo_for_GitHub.m reads in the measurement data, performs calculations such as Fast-Foruier-Transformation, freqeuncy picking, calculation of enery content, etc. Finally, the processed data a visualised in several plots. 
+The Matlab-file processing_impact_echo_for_GitHub.m reads in the measurement data, performs calculations such as Fast-Foruier-Transformation, freqeuncy picking, calculation of enery content, etc. Finally, the processed data are visualised in several plots. 
 
 Spectral Analysis of Vibration Measurements on B70 Concrete Sleepers
 
