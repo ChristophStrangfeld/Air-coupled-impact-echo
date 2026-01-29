@@ -134,4 +134,4 @@ TDMS file support (tdmsread)
 
 👤 Author / Context
 
-This script was developed in the context of laboratory investigations on concrete railway sleepers and is intended for systematic spectral analysis of high-frequency vibration measurements.
+The corresponding research project was funded by Deutsches Zentrum für Schienenverkehrsforschung beim Eisenbahn-Bundesamt (German Centre for Rail Traffic Research at the Federal Railway Authority) under the research grant 1113-111vb\slash012-0099\#004, titled "Technische Machbarkeitsstudie zur Rissdetektion an Eisenbahn-Spannbetonschwellen mit Methoden der zerstörungsfreien Prüfung" (Technical feasibility study on crack detection in railway prestressed concrete sleepers using non-destructive testing methods).
